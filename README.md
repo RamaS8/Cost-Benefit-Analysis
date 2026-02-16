@@ -1,5 +1,3 @@
-# Cost-Benefit-Analysis
-Financial cost-benefit analysis of a proposed office system using 4-year discounted cash flow modeling (NPV, ROI, break-even) to evaluate IT investment feasibility.
 # 📊 Cost-Benefit Analysis – Office System Implementation  
 # IT-Cost-Benefit-Analysis  
 Financial evaluation project focused on IT investment feasibility using discounted cash flow modeling and financial performance metrics.
