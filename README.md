@@ -1,89 +1,94 @@
 # Cost-Benefit-Analysis
 Financial cost-benefit analysis of a proposed office system using 4-year discounted cash flow modeling (NPV, ROI, break-even) to evaluate IT investment feasibility.
 # 📊 Cost-Benefit Analysis – Office System Implementation  
-**Course:** MIS 581 – IT Policy and Strategy  
-**Analysis Period:** 4-Year Payback Horizon  
-**Discount Rate:** 4%
+# IT-Cost-Benefit-Analysis  
+Financial evaluation project focused on IT investment feasibility using discounted cash flow modeling and financial performance metrics.
 
 ---
 
-## 📌 Project Overview
+# IT Cost-Benefit Analysis  
 
-This repository contains a structured Cost-Benefit Analysis (CBA) evaluating the financial feasibility of implementing a new office system. The goal is to determine whether the proposed IT investment should be approved based on quantitative financial metrics.
+## Overview  
 
-The analysis follows the financial modeling framework presented in class and incorporates projected costs, benefits, discounted cash flows, and return metrics.
+This project presents a structured financial evaluation of a proposed enterprise office system implementation. The objective is to assess whether the IT investment should be approved by translating development and operational costs into measurable financial outcomes.
+
+The analysis applies discounted cash flow modeling, ROI calculations, and break-even analysis to determine project viability over a four-year payback period.
 
 ---
 
-## 🏗 Cost Components
+## Business Objective  
 
-### 🔹 Development Costs (Initial Investment – Year 0)
-- Systems Analysts  
-- Programmer Analysts  
-- Web Designer  
-- Telecom Specialist  
-- System Architect  
-- Database Specialist  
-- System Librarian  
-- Oracle Training (4 seats)  
-- Development Server  
-- Operating System Software  
-- DBMS Server & Client Software  
+IT investments require significant upfront capital and ongoing operational costs. Without structured financial analysis, organizations risk approving projects that do not generate sufficient returns.
+
+This project aims to:
+
+- Quantify total development and operating costs  
+- Forecast revenue growth and operational savings  
+- Model annual cash flows over a four-year horizon  
+- Calculate Net Present Value (NPV) using a 4% discount rate  
+- Determine Return on Investment (ROI)  
+- Identify the break-even point  
+- Provide a data-driven approval recommendation  
+
+---
+
+## Financial Model Structure  
+
+### 🔹 Development Costs (Year 0)
+- Personnel (Systems Analysts, Programmer Analysts, Architect, DB Specialist, etc.)
+- Training (Oracle seats)
+- Hardware and software (Server, OS, DBMS, client licenses)
 
 ### 🔹 Annual Operating Costs
-- Programmer/Analyst support  
-- System Librarian support  
-- Maintenance agreements  
-- Preprinted forms  
+- Ongoing personnel support
+- Maintenance agreements
+- Preprinted forms
+- Personnel cost escalation at 4% annually
 
-**Assumption:** Personnel costs increase at **4% annually**.
-
----
-
-## 💰 Benefit Components
-
-### 📈 Increased Sales
-- **$30,000** in Year 1  
-- **10%** growth per year  
-
-### 📦 Inventory Savings
-- **$15,000** annually (flat)
+### 🔹 Benefits
+- Sales increase starting at $30,000 in Year 1 with 10% annual growth
+- Inventory savings of $15,000 per year (constant)
 
 ---
 
-## 📊 Financial Metrics Calculated
+## Analytical Framework  
 
-The Excel model computes:
+The financial evaluation includes:
 
-- Annual Net Cash Flow  
-- Cumulative Cash Flow  
-- Present Value of Cash Flows  
-- Net Present Value (NPV)  
-- Return on Investment (ROI)  
-- Break-even Point (Payback Year)
+- Annual Net Cash Flow calculations  
+- Cumulative Cash Flow tracking  
+- Discounted Cash Flow (DCF) analysis  
+- Net Present Value (NPV) computation  
+- ROI calculation  
+- Break-even analysis  
 
----
-
-## 🧮 Decision Framework
-
-The project should be approved if:
-
-- **NPV > 0**  
-- **ROI is positive**  
-- **Break-even occurs within 4 years**
-
-This analysis demonstrates how IT investments can be evaluated using structured financial methods rather than intuition alone.
+This approach ensures the investment decision is grounded in quantitative financial metrics rather than assumptions.
 
 ---
 
-## 📁 Repository Contents
+## Tools & Technologies  
 
-- `Cost_Benefit_Analysis_Model.xlsx` – Full financial spreadsheet  
-- `Problem_Statement.pdf` – Assignment description  
-- `README.md` – Project documentation  
+- Microsoft Excel – Financial modeling and cash flow analysis  
+- Discounted Cash Flow (DCF) methodology  
+- ROI and Payback Period evaluation techniques  
 
 ---
 
-## 🎯 Key Learning Outcome
+## Key Learnings  
 
-This project highlights the importance of aligning IT strategy with financial performance by translating implementation costs and operational benefits into measurable economic outcomes.
+- Translating IT implementation costs into measurable financial outcomes  
+- Applying discounted cash flow principles to technology investments  
+- Modeling revenue growth and cost escalation  
+- Evaluating IT strategy through financial performance indicators  
+- Supporting executive decision-making using quantitative analysis  
+
+---
+
+## Project Use Case  
+
+This repository is intended for:
+
+- IT strategy and financial analysis portfolio demonstration  
+- Practicing cost-benefit modeling techniques  
+- Showcasing financial evaluation skills in technology investments  
+- Demonstrating structured IT governance and approval frameworks  
