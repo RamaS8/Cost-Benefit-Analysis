@@ -5,9 +5,6 @@ Financial cost-benefit analysis of a proposed office system using 4-year discoun
 Financial evaluation project focused on IT investment feasibility using discounted cash flow modeling and financial performance metrics.
 
 ---
-
-# IT Cost-Benefit Analysis  
-
 ## Overview  
 
 This project presents a structured financial evaluation of a proposed enterprise office system implementation. The objective is to assess whether the IT investment should be approved by translating development and operational costs into measurable financial outcomes.
@@ -81,13 +78,6 @@ This approach ensures the investment decision is grounded in quantitative financ
 - Modeling revenue growth and cost escalation  
 - Evaluating IT strategy through financial performance indicators  
 - Supporting executive decision-making using quantitative analysis  
-
----
-
-## Project Use Case  
-
-This repository is intended for:
-
 - IT strategy and financial analysis portfolio demonstration  
 - Practicing cost-benefit modeling techniques  
 - Showcasing financial evaluation skills in technology investments  
